@@ -72,3 +72,14 @@ a {
     padding: 8px 43px;
     border-radius: 20px;
 }
+
+.header-slider {
+    padding-top: 111px;
+}
+
+
+
+.header-slider__item-content {
+    display: flex;
+    justify-content: space-between;
+}
