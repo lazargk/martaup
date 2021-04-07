@@ -77,9 +77,43 @@ a {
     padding-top: 111px;
 }
 
-
+.header-slider__item {
+}
 
 .header-slider__item-content {
     display: flex;
     justify-content: space-between;
+}
+
+
+.header-slider__item-info {
+    max-width: 506px;
+    color: #fff;
+}
+.header-slider__title {
+    font-weight: 700;
+    font-size: 45px;
+    line-height: 60px;
+    /* color: #fff; */
+    margin-bottom: 10px;
+}
+.header-slider__description {
+    font-weight: normal;
+    font-size: 24px;
+    line-height: 55px;
+    
+    margin-bottom: 60px;
+}
+.header-slider__btn {
+    font-weight: 600;
+    
+    color: #250F8A;
+    background-color: #FFCA00;;
+    padding: 13px 39px;
+    
+    text-transform: uppercase;
+    border-radius: 25px;
+    
+}
+.header-slider__item-images {
 }
