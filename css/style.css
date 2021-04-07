@@ -47,6 +47,9 @@ a {
 
 .login {
     padding-right: 44px;
+    text-transform: uppercase;
+    color: #fff;
+    font-weight: 600;
 }
 
 .menu__list a {
@@ -59,4 +62,13 @@ a {
 
 .menu__list a:hover{
     opacity: 1;
+}
+
+.sign-up {
+    text-transform: uppercase;
+    font-weight: 600;
+    color: #250F8A;
+    background-color: #fff;
+    padding: 8px 43px;
+    border-radius: 20px;
 }
