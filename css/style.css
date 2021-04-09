@@ -180,6 +180,7 @@ a {
     
 }
 .specialised__item-img {
+    min-height: 159px;
 }
 .specialised__item-title {
     margin-bottom: 11px;
