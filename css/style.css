@@ -124,6 +124,7 @@ a {
     position: absolute;
     right: 0;
     top: 50%;
+    
 }
 
 .header-dots button {
@@ -136,4 +137,12 @@ a {
     height: 7px;
     border-radius: 3.5px;
     cursor: pointer;
+    outline: none;
+    margin: 10px auto;
+    
+    display: block;
+}
+.header-dots .slick-active button {
+    width: 15px;
+    opacity: 1;
 }

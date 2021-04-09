@@ -5,6 +5,7 @@ $(function(){
         vertical:true,
         verticalSwiping: true,
         dotsClass:'header-dots',
+        autoplay: 2000,
       });
 });
 
