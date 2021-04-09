@@ -121,6 +121,9 @@ a {
 
 .header-dots {
     list-style: none;
+    position: absolute;
+    right: 0;
+    top: 50%;
 }
 
 .header-dots button {
